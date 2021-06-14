@@ -1,0 +1,7 @@
+site_name: Innovación y Tecnologías de la Información - CELS
+nav:
+   - Home: index.md
+   - Seguridad: seguridad.md
+   - Sistemas: sistemas.md
+   - About: about.md
+theme: readthedocs
